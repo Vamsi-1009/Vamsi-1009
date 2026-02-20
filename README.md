@@ -13,11 +13,22 @@
 ---
 
 ### 👤 Professional Profile
-I am a **Computer Science Engineering graduate** with a **7.69 CGPA**. I specialize in building scalable backend systems and secure RESTful APIs. My background combines traditional software development with specialized expertise in **Linux Administration** and **VPS Provisioning**.
+[cite_start]I am a **Full Stack Developer** and **Computer Science Engineering graduate**[cite: 6]. [cite_start]I specialize in building scalable backend systems, secure authentication, and database optimization[cite: 6, 7]. [cite_start]My background combines traditional software development with specialized expertise in **Linux Administration** and **VPS Provisioning**[cite: 14, 15].
 
-* 🚀 **Core Goal:** Writing clean, efficient code to contribute to high-impact software teams.
-* ⚙️ **Infrastructure Mindset:** Expert in managing the full lifecycle of applications, from development to deployment.
-* 📍 **Location:** Visakhapatnam, Andhra Pradesh, India.
+* [cite_start]🚀 **Core Goal:** Writing clean, efficient code to contribute to high-impact software teams[cite: 8].
+* [cite_start]⚙️ **Infrastructure Mindset:** Experienced in building scalable systems and secure authentication[cite: 7].
+* [cite_start]📍 **Location:** Visakhapatnam, Andhra Pradesh, India[cite: 4].
+
+---
+
+### 🎓 Education
+*Direct overview of academic qualifications.*
+
+| Institution | Degree / Board | Timeline | Result |
+| :--- | :--- | :--- | :--- |
+| **Avanthi Institute of Engineering and Technology** | [cite_start]**B.Tech in Computer Science and Engineering** [cite: 37, 38] | [cite_start]2021 - 2025 [cite: 37] | [cite_start]**7.69 CGPA** [cite: 39] |
+| **Sri Chaitanya Junior College** | [cite_start]**Intermediate (BIEAP)** [cite: 40, 41] | [cite_start]2019 - 2021 [cite: 40] | [cite_start]**68%** [cite: 42] |
+| **Haragopal High School** | [cite_start]**Secondary Education (BSEAP)** [cite: 43, 44] | [cite_start]2018 - 2019 [cite: 43] | [cite_start]**8.9 CGPA** [cite: 45] |
 
 ---
 
@@ -26,10 +37,10 @@ I am a **Computer Science Engineering graduate** with a **7.69 CGPA**. I special
 
 | **Programming Languages** | **Backend & Cloud** | **Systems & Infrastructure** |
 | :--- | :--- | :--- |
-| • Python (Standard Libs) | • Node.js & Express.js | • Linux/Unix Admin |
-| • Java & C | • RESTful Logic & APIs | • VPS Provisioning |
-| • JavaScript & PHP | • Supabase & MySQL | • SSH Tunnelling |
-| • Fundamentals of DSA | • Cloud Computing | • DNS & Domain Mgmt |
+| [cite_start]• Python (Standard Libs) [cite: 10] | [cite_start]• Node.js & Express.js [cite: 16, 19] | [cite_start]• Linux/Unix Admin [cite: 14] |
+| [cite_start]• Java & C [cite: 10] | [cite_start]• RESTful Logic & APIs [cite: 16, 19] | [cite_start]• VPS Provisioning [cite: 14] |
+| [cite_start]• JavaScript & PHP [cite: 11] | [cite_start]• Supabase & MySQL [cite: 24] | [cite_start]• SSH Tunnelling [cite: 14] |
+| [cite_start]• Fundamentals of DSA [cite: 10] | [cite_start]• Cloud Computing [cite: 12] | [cite_start]• DNS & Domain Mgmt [cite: 16] |
 
 ---
 
@@ -38,31 +49,23 @@ I am a **Computer Science Engineering graduate** with a **7.69 CGPA**. I special
 
 #### 🛡️ [Expose-Chain](https://exposechain.24102002.xyz/)
 **Infrastructure Intelligence & Domain Security**
-* **Verified Tech:** JavaScript, Node.js, Express.js, DNS APIs.
-* **Core Function:** Automatically gathers DNS, SSL, and WHOIS data to generate a **Risk Score** using AI Threat Scoring.
-* **Impact:** Identifies critical security gaps such as missing DMARC records to improve domain security posture.
+* [cite_start]**Verified Tech:** JavaScript, Node.js, Express.js, DNS APIs[cite: 28].
+* [cite_start]**Core Function:** Automatically gathers DNS, SSL, and WHOIS data to generate a **Risk Score** using AI Threat Scoring[cite: 28, 30, 31].
+* [cite_start]**Impact:** Identifies critical security gaps such as missing DMARC records to improve domain security posture[cite: 31].
 
 #### 🎓 [Academic Exchange Platform](https://academicexchange.24102002.xyz)
 **Student Resource Marketplace**
-* **Verified Tech:** SQL, Node.js, Express.js, MySQL, JWT.
-* **Core Function:** A secure platform for students to share academic materials with role-based access control.
-* **Impact:** Manages listings and user interactions while ensuring secure data management via REST APIs.
+* [cite_start]**Verified Tech:** SQL, Node.js, Express.js, MySQL, JWT[cite: 24].
+* [cite_start]**Core Function:** A secure platform for students to share academic materials with role-based access control[cite: 25, 26].
+* [cite_start]**Impact:** Manages listings and user interactions while ensuring secure data management via REST APIs[cite: 27].
 
 #### 📝 [Readme-Generator](https://readme.md.24102002.xyz/)
 **Developer Documentation CLI**
-* **Verified Tech:** Node.js, Inquirer.js.
-* **Core Function:** A command-line tool that automates the generation of structured Markdown files through interactive prompts.
-
----
-
-### 📈 Engineering Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vamsipallam&show_icons=true&theme=vibrant&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsipallam&layout=compact&theme=vibrant&langs_count=6" />
-</p>
+* [cite_start]**Verified Tech:** Node.js, Inquirer.js[cite: 32].
+* [cite_start]**Core Function:** A command-line tool that automates the generation of structured Markdown files through interactive prompts[cite: 33, 34].
 
 ---
 
 <div align="center">
-  <i>"I declare that the above information is accurate to my knowledge and belief." — Pallam Vamsi</i>
+  <i>"I declare that the above information is accurate to my knowledge and belief." [cite_start]— Pallam Vamsi</i> [cite: 53]
 </div>
