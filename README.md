@@ -1,62 +1,68 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px"> I'm Pallam Vamsi
+<div align="center">
 
-<p align="left">
-  <a href="https://myprofile.24102002.xyz/">
-    <img src="https://img.shields.io/badge/View_Portfolio-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:vamsikrishnapallam@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+# Pallam Vamsi
+**Full Stack Developer | Computer Science Engineer | Systems Specialist**
+*Building secure backend architectures and managing intelligent cloud infrastructure.*
 
-### 🚀 Full Stack Developer | Computer Science Engineer
-[cite_start]I am a **Full Stack Developer** [cite: 6] [cite_start]passionate about building scalable backend systems, secure authentication, and high-impact software[cite: 7, 8]. [cite_start]I specialize in **Python**, **Node.js**, and **RESTful APIs**[cite: 6, 10, 19].
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://myprofile.24102002.xyz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsipallam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsikrishnapallam@gmail.com)
+
+</div>
 
 ---
 
-### 🛠️ My Tech Stack
+### 👤 Professional Profile
+I am a **Computer Science Engineering graduate** with a **7.69 CGPA**. I specialize in building scalable backend systems and secure RESTful APIs. My background combines traditional software development with specialized expertise in **Linux Administration** and **VPS Provisioning**.
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | [cite_start]Python, Java, C, JavaScript, PHP [cite: 10, 11] |
-| **Web & Backend** | [cite_start]Node.js, Express.js, HTML5, CSS3, REST APIs [cite: 11, 16, 19] |
-| **Databases** | [cite_start]MySQL, SQLite, Supabase [cite: 13, 24] |
-| **Tools & Systems** | [cite_start]Git, Linux/Unix, VPS Provisioning, Docker, Android Studio [cite: 13, 14] |
+* 🚀 **Core Goal:** Writing clean, efficient code to contribute to high-impact software teams.
+* ⚙️ **Infrastructure Mindset:** Expert in managing the full lifecycle of applications, from development to deployment.
+* 📍 **Location:** Visakhapatnam, Andhra Pradesh, India.
 
 ---
 
-### 🌟 Featured Projects
+### 🛠️ Structured Expertise
+*Showcasing a deep understanding of both code and the infrastructure it runs on.*
+
+| **Programming Languages** | **Backend & Cloud** | **Systems & Infrastructure** |
+| :--- | :--- | :--- |
+| • Python (Standard Libs) | • Node.js & Express.js | • Linux/Unix Admin |
+| • Java & C | • RESTful Logic & APIs | • VPS Provisioning |
+| • JavaScript & PHP | • Supabase & MySQL | • SSH Tunnelling |
+| • Fundamentals of DSA | • Cloud Computing | • DNS & Domain Mgmt |
+
+---
+
+### 🚀 Production-Ready Projects
+*Each project is live and verified. Click the titles to explore the deployments.*
 
 #### 🛡️ [Expose-Chain](https://exposechain.24102002.xyz/)
-[cite_start]A domain security analysis platform that evaluates security posture through DNS records, SSL details, and **AI Threat Scoring**[cite: 28, 29].
-* [cite_start]**Tech:** JavaScript, Node.js, Express.js, DNS APIs[cite: 28].
-* [cite_start]**Core:** Generates risk scores and identifies missing security records like DMARC[cite: 31].
+**Infrastructure Intelligence & Domain Security**
+* **Verified Tech:** JavaScript, Node.js, Express.js, DNS APIs.
+* **Core Function:** Automatically gathers DNS, SSL, and WHOIS data to generate a **Risk Score** using AI Threat Scoring.
+* **Impact:** Identifies critical security gaps such as missing DMARC records to improve domain security posture.
 
-#### 📚 [Academic Exchange Platform](https://academicexchange.24102002.xyz)
-[cite_start]A marketplace for students to share and request academic resources like notes and books[cite: 25].
-* [cite_start]**Tech:** SQL, Node.js, MySQL, JWT Authentication[cite: 24].
-* [cite_start]**Core:** Role-based access and secure user interactions[cite: 26, 27].
+#### 🎓 [Academic Exchange Platform](https://academicexchange.24102002.xyz)
+**Student Resource Marketplace**
+* **Verified Tech:** SQL, Node.js, Express.js, MySQL, JWT.
+* **Core Function:** A secure platform for students to share academic materials with role-based access control.
+* **Impact:** Manages listings and user interactions while ensuring secure data management via REST APIs.
 
 #### 📝 [Readme-Generator](https://readme.md.24102002.xyz/)
-[cite_start]A CLI tool that simplifies documentation by generating formatted Markdown files through user prompts[cite: 33, 34].
-* [cite_start]**Tech:** Node.js, Inquirer.js[cite: 32].
+**Developer Documentation CLI**
+* **Verified Tech:** Node.js, Inquirer.js.
+* **Core Function:** A command-line tool that automates the generation of structured Markdown files through interactive prompts.
 
 ---
 
-### 📊 GitHub Stats & Activity
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vamsipallam&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsipallam&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
----
-
-### 📬 Let's Connect!
-* [cite_start]**LinkedIn:** [vamsipallam](https://www.linkedin.com/in/vamsipallam) [cite: 3]
-* [cite_start]**Location:** Visakhapatnam, Andhra Pradesh, India [cite: 4]
-* [cite_start]**Interests:** Coding, Journaling, and Endurance Sports [cite: 47, 48]
-
----
+### 📈 Engineering Activity
 <p align="center">
-  [cite_start]<i>"I believe in writing clean, efficient code that solves real-world problems."</i> [cite: 8]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vamsipallam&show_icons=true&theme=vibrant&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsipallam&layout=compact&theme=vibrant&langs_count=6" />
 </p>
+
+---
+
+<div align="center">
+  <i>"I declare that the above information is accurate to my knowledge and belief." — Pallam Vamsi</i>
+</div>
